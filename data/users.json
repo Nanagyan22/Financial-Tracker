@@ -1,0 +1,32 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "administrator",
+    "full_name": "System Administrator",
+    "email": "admin@auditor-general.gov.gh",
+    "created_at": "2025-09-25T14:54:32.304851",
+    "last_login": "2025-09-25T14:54:32.308333",
+    "active": true
+  },
+  "auditor": {
+    "username": "auditor",
+    "password": "5b92db4dfb561dc69c949f34d36f5db0f8b30811be3a2949d85c5001279e9b1a",
+    "role": "auditor",
+    "full_name": "Senior Auditor",
+    "email": "auditor@auditor-general.gov.gh",
+    "created_at": "2025-09-25T14:54:32.304865",
+    "last_login": "2025-09-25T14:56:50.778402",
+    "active": true
+  },
+  "public": {
+    "username": "public",
+    "password": "034b298b78ffaa422625e47d8fa028422a242ba33dac8505fef4137992716334",
+    "role": "public",
+    "full_name": "Public User",
+    "email": "public@ghana.gov.gh",
+    "created_at": "2025-09-25T14:54:32.304871",
+    "last_login": "2025-09-25T14:54:32.312634",
+    "active": true
+  }
+}
